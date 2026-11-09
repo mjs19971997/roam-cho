@@ -1,0 +1,1 @@
+{"card": "F1", "service_match": true, "w_bar": 0.36, "n_cells": 35, "eq_cho": true, "eq_a3": true, "world_s": 6.9, "run_s": 34.7, "full_runs": {"rcho_full": 15.16, "ra3_paper": 9.0, "cho": 23.44}}

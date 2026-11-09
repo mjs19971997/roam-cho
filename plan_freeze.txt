@@ -1,0 +1,4 @@
+PLAN_roamcho.md SHA-256 5d8065a9a8f8813860cc2982f35f94d13af154a6e73f148cda9a6ec19dc0de68
+Recorded 2026-11-08 before any tuning, test or smoke run (only the wall-time probe scripts/timing.py ran before).
+Later changes to PLAN_roamcho.md are dated addenda appended at the end; each addendum records the new SHA-256 here.
+PLAN_roamcho.md SHA-256 after Addendum 1 (S0 results, before any tuning run): 244b2f8fdcfc24a1aa53f318a6c593b12643e1aaef983b71d4e60b70b593f233

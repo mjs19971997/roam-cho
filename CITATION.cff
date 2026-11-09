@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use these scripts or results, please cite them as below. The reference of the accompanying article will be added when it is published."
+title: "ROAM-CHO: history- and dwell-aware conditional handover (study plan, scripts and results)"
+type: software
+license: MIT
+repository-code: "https://github.com/mjs19971997/roam-cho"
+date-released: "2026-11-09"
+version: "1.0.0"
+authors:
+  - family-names: "Jalili Sanjarani"
+    given-names: "Mostafa"
+    affiliation: "Department of Computer Engineering, Sab.C., Islamic Azad University, Sabzevar, Iran"
+  - family-names: "Elmi Sola"
+    given-names: "Yasser"
+    affiliation: "Department of Computer Engineering, Sab.C., Islamic Azad University, Sabzevar, Iran"
+  - family-names: "Hasanpour"
+    given-names: "Hesam"
+    affiliation: "Department of Computer Engineering, Sab.C., Islamic Azad University, Sabzevar, Iran"
+  - family-names: "Neghabi"
+    given-names: "Ali Akbar"
+    affiliation: "Department of Computer Engineering, Sab.C., Islamic Azad University, Sabzevar, Iran"
+keywords:
+  - conditional handover
+  - unnecessary handover
+  - handover history
+  - dwell time
+  - signalling overhead
+  - pre-registered study
+  - system-level simulation

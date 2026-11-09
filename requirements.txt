@@ -1,0 +1,5 @@
+# Python 3.12 (64-bit).
+handoverlab[fast]==2.11.1
+numpy
+scipy
+matplotlib
